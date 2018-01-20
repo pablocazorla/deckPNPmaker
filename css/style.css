@@ -1,0 +1,9 @@
+/* STYLE.LESS */
+body {
+  background-color: #DDD;
+  padding: 50px;
+}
+canvas {
+  background-color: #FFF !important;
+  display: block;
+}

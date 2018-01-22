@@ -7,3 +7,6 @@ canvas {
   background-color: #FFF !important;
   display: block;
 }
+.page {
+  margin-bottom: 60px;
+}
